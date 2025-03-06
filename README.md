@@ -1,5 +1,5 @@
 # **stats220**
-## *This is my repo for STATS 220.* 
+## This is my repo for STATS 220.
 
 ### A little about me:
 
@@ -16,6 +16,6 @@
 https://giphy.com/explore/batman-penguin
 
 ### Cool websites I've found recently
-![](https://inkarnate.com/)
-![](https://explore.org/livecams/bald-eagles/decorah-eagles-north-nest)
+https://inkarnate.com/
+https://explore.org/livecams/bald-eagles/decorah-eagles-north-nest
 
