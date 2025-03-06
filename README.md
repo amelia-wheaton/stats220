@@ -13,7 +13,7 @@
 3. Hiking
 
 ### A meme that captures how I currently feel about my university studies is 
-![](https://giphy.com/explore/batman-penguin)
+https://giphy.com/explore/batman-penguin
 
 ### Cool websites I've found recently
 ![](https://inkarnate.com/)
